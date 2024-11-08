@@ -32,7 +32,7 @@ class UniqueLinesApp:
         self.remove_button.pack(pady=10)
 
         # Create a button to delete selected file
-        self.delete_button = tk.Button(master, text="Delete Selected File", command=self.delete_selected_file)
+        self.delete_button = tk.Button(master, text="Remove from the list", command=self.delete_selected_file)
         self.delete_button.pack(pady=5)
 
         # Create a button to clear the list
