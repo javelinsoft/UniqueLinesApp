@@ -1,4 +1,5 @@
 # Unique Lines Extractor
+![UniqueLinesApp](https://github.com/user-attachments/assets/6d75be7f-8b90-4fd2-9cc3-1ce2c6e7e37b)
 
 This application allows you to extract unique lines from multiple text files.   
 To use it, simply drag and drop your text files into the window.   
